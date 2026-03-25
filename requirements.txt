@@ -1,0 +1,27 @@
+# Core Data Science Libraries
+pandas
+numpy
+
+# Machine Learning
+scikit-learn
+
+# Data Visualization
+matplotlib
+seaborn
+
+# Jupyter Notebook
+jupyter
+notebook
+ipykernel
+
+# File Reading
+openpyxl
+
+# Time Series Forecasting
+statsmodels
+
+# Progress bars for loops
+tqdm
+
+# Better display in notebooks
+ipywidgets
